@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Luiz Felipe e Silva Machado - 20201014050008
-# Sara Maria Caldas Rego - 20212014050020
+
 
 # Função que exibe o menu inicial
 function menu() {

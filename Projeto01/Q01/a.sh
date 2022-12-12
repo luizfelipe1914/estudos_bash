@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Luiz Felipe e Silva Machado - 20201014050008
-# Sara Maria Caldas Rego - 20212014050020
-
 ##############################################################################
 #																			 #
 # Efetua a leitura do arquivo /etc/passwd e envia a saída para o comando 	 #

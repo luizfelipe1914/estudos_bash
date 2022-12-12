@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Luiz Felipe e Silva Machado - 20201014050008
-# Sara Maria Caldas Rego - 20212014050020
+
 
 grep "sh$" /etc/passwd | awk -F":" '{print "Usuário:"$1 " shell:" $7}'
 

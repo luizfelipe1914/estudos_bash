@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Luiz Felipe e Silva Machado - 20201014050008
-# Sara Maria Caldas Rego - 20212014050020
 
 for x in $(cat /etc/passwd | awk -F':' '{print $3}'); do
 	USERS=$(cat /etc/passwd | awk -F':' '{print $3, $1}'| grep -w "$x" | awk '{print $2}' | tr '\n' ', ') 

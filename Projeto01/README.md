@@ -6,7 +6,7 @@ Semestre letivo de 2022.1 - Prof. [Galileu Batista de Sousa](http://buscatextual
 
 
 
-[Questão 01](./Q01/Q01.sh) . 
+[Questão 01](./Q01) . 
 
 Existem algumas possibilidades de verificação de segurança relacionadas a
 usuários em um ambiente Linux. Nesse sentido:
